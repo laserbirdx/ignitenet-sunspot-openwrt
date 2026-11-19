@@ -2,7 +2,12 @@
 
 # OpenWrt on IgniteNet SunSpot AC Wave2
 
-![OpenWrt: 25.12.5 (ipq806x)](https://img.shields.io/badge/OpenWrt-25.12.5%20(ipq806x)-00B5E2?logo=openwrt&logoColor=white) ![UART: Not Required (SSH)](https://img.shields.io/badge/UART-Not%20Required%20(SSH)-brightgreen) ![layout: Dual-Boot Safe](https://img.shields.io/badge/layout-Dual--Boot%20Safe-success) ![license: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey)
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenWrt-25.12.5%20%28ipq806x%29-00B5E2?logo=openwrt&logoColor=white" alt="OpenWrt: 25.12.5 (ipq806x)" />
+  <img src="https://img.shields.io/badge/UART-Not%20Required%20%28SSH%29-brightgreen" alt="UART: Not Required (SSH)" />
+  <img src="https://img.shields.io/badge/layout-Dual--Boot%20Safe-success" alt="layout: Dual-Boot Safe" />
+  <img src="https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey" alt="license: CC BY 4.0" />
+</p>
 
 Installing OpenWrt on the IgniteNet SunSpot AC Wave2 (SS-W2-AC2600, Accton EAP1024A-V2)
 **from the stock firmware over SSH**, without opening the case or using a serial console.
